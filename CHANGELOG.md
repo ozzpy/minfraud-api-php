@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.4.0 (2017-01-11)
+------------------
+
+* Added support for custom inputs. You may set up custom inputs from your
+  account portal.
 * Updated the docs for `MaxMind\MinFraud\Model\Address` now that
   `isPostalInCity` may be returned for addresses world-wide.
 
